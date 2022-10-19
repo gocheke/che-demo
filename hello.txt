@@ -1,5 +1,0 @@
-hello,che,it`s a first repository!
-hello,che 22222
-hello,che 33333
-ssh test
-toGitHub
